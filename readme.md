@@ -10,4 +10,4 @@
 
 `git log` - View recent commmits
 
-More will be added as time goes by. Feel free to contribute and add more you may find all over the internet. This is just for referance for anyone.
+More will be added as time goes by. Feel free to [contribute](CONTRIBUTING.md#getting-started-) and add more you may find all over the internet. This is just for referance for anyone.
