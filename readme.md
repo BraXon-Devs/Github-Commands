@@ -9,3 +9,5 @@
 `git commit` - Create a new commit with files from staging area
 
 `git log` - View recent commmits
+
+More will be added as time goes by. Feel free to contribute and add more you may find all over the internet. This is just for referance for anyone.
